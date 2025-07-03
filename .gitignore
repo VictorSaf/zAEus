@@ -170,6 +170,11 @@ logs/
 test-results/
 test-reports/
 
+# Development test files
+test-*.js
+test-*.html
+debug-*.js
+
 # Temporary files
 tmp/
 temp/
